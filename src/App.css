@@ -1,0 +1,148 @@
+.body-image{
+	background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("https://c4.wallpaperflare.com/wallpaper/206/268/839/pose-muscle-muscle-rod-press-hd-wallpaper-preview.jpg");
+	height:370px;
+	
+}
+.head{
+	font-size:1.9rem;
+	font-family:cursive;
+}
+.join-div{
+	margin-top:40px;
+	margin-left:30px;
+	/* border:2px solid black; */
+	width:43%;
+	height:70%;
+}
+.join-div h1{
+	font-size:2.2rem;
+	font-family:cursive;
+}
+.join-div p{
+	font-size:.7rem;
+	font-family:cursive;
+
+}
+p{
+	font-size:.8rem;
+	font-family:monospace;
+
+}
+button{
+	font-family:monospace;
+
+
+}
+.card-div{
+      width:225px;
+	  height:250px;
+	  /* box-shadow:0px 10px 10px 3px  black; */
+}
+.header-div{
+	margin-left:250px;
+	justify-content:space-arou;
+}
+
+.dream-div1{
+	width:300px;
+	height:250px;
+	background:url("https://previews.123rf.com/images/antondotsenko/antondotsenko1703/antondotsenko170300577/74136777-brutal-strong-athletic-men-pumping-up-muscles-and-train-in-gym-workout-bodybuilding-concept-backgrou.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+
+	
+}
+.dream-div2{
+	width:470px;
+	height:175px;
+	margin-top:30px;
+}
+.training-div1{
+	width:380px;
+	margin-left:15px;
+	height:230px;
+	background:url("https://images.unsplash.com/photo-1518611012118-696072aa579a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z2lybCUyMHdvcmtvdXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.training-div2{
+	margin-left:30px;
+	width:380px;
+	height:230px;
+	background:url("https://images.unsplash.com/photo-1594737625785-a6cbdabd333c?ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8Z3ltfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.yoga-session{
+	background-color:orange;
+	width:66%;
+	height:16%;
+	margin-top:47%;
+	text-align:center;
+	padding-top:9px;
+}
+.cardio-session{
+	background-color:orange;
+	width:66%;
+	height:16%;
+	margin-top:47%;
+	text-align:center;
+	padding-top:9px;
+}
+.iconcard-div{
+	width:225px;
+	height:200px;
+	border:3px solid orange;
+	text-align:center;
+	
+}
+.footer-div{
+	width:100%;
+	height:230px;
+	background-color:black;
+}
+.para-footer{
+	word-spacing:-4px;
+	font-size:15px;
+}
+.parasub-footer{
+	word-spacing:1px;
+	font-size:10px;
+
+}
+.home-link{
+	 text-decoration-line:none;
+     color:white;
+	 font-size:13px;
+}
+.home-link:hover{
+	color:yellow;
+}
+.ourclasscard-div{
+	width:250px;
+	height:280px;
+	position:relative;
+}
+.ourclasscard-div1{
+	position:absolute;
+	background-color:#40ff00;
+	width:80%;
+	height:25%;
+	margin-top:220px;
+	margin-left:9px;
+}
+.ourclasspara{
+	font-size:1.5rem;
+	word-spacing:-6px;
+	text-align:center;
+	letter-spacing:-1px;
+	color:black;
+	margin-top:18px;
+	font-style:bold;
+}
+
+
+
+
+
+
